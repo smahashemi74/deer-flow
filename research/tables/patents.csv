@@ -1,0 +1,20 @@
+﻿ردیف,شماره,عنوان,مالک/مخترع,تاریخ اولویت,وضعیت حقوقی,دامنه فناوری,تبدیل به محصول
+1,US3679365A,Method for counting somatic cells in milk,Technicon Corp,~۱۹۷۰,منقضی,شمارش خودکار,ریشه شمارنده‌های خودکار
+2,EP0975960B1,Somatic cell analyser,S.L. Mangan / Agricultural Instruments Canada,۱۹۹۹-۰۲-۱۲,منقضی (اعطا ۲۰۰۲-۰۹-۲۵),پروب یون در جریان شیر,محصول تجاری تأیید نشده
+3,US6919960B2,Method and apparatus for counting cells,ChemoMetec AS,۱۹۹۸-۰۵-۰۵,منقضی/پایان عمر,سیتومتری تصویری کاستی,→ NucleoCounter SCC-100
+4,US6709868B2,Method and apparatus for measuring cells in a liquid,PortaScience Inc,~۲۰۰۱,منقضی,شمارش رنگ‌سنجی/فلورسنت,→ PortaSCC
+5,US7234414B2,Mastitis detection,Sensortec Ltd → Lely Patent NV,PCT/NZ2000/000232,منقضی ۲۰۲۲-۱۱-۲۹,دترجنت/ویسکوزیته در خط,→ Lely MQC
+6,US6307362B1,Device for measuring quantities of cells in milk,DeLaval,~۱۹۹۸,منقضی,شمارش نوری درون‌خط,→ OCC
+7,WO2004073391A1 / EP1594357B1,Method and system for counting cells,DeLaval,~۲۰۰۳,نیازمند استعلام رسمی,شمارش در جریان شیر,→ OCC
+8,US20040168643A1,—,DeLaval,~۲۰۰۳,درخواست,شمارش سلولی,OCC
+9,CN114521106B,乳中体细胞检测装置,نامشخص,~۲۰۲۲,اعطاشده (چین),دستگاه تشخیص SCC,بازار چین
+10,US9389175B2,Low-angle light scattering cell counting,نامشخص,~۲۰۱۱,فعال تا ~۲۰۳۳,پراکندگی نور کم‌زاویه,نامشخص
+11,US10983104B2,Microfluidic cell counting,Beckman Coulter,اعطا ۲۰۱۴-۱۱-۰۴,بررسی‌شده,میکروفلوئیدیک,آزمایشگاهی عمومی
+12,WO2017065708A1,شمارش سلولی میکروفلوئیدیک,نامشخص,۲۰۱۵,متوقف (Ceased),میکروفلوئیدیک,—
+13,WO2017065709A1,شمارش سلولی میکروفلوئیدیک,نامشخص,۲۰۱۵,بررسی‌شده,میکروفلوئیدیک,—
+14,CN104897556A,牛奶体细胞快速检测,نامشخص,~۲۰۱۵,نامشخص,نوری,بازار چین
+15,CN108845001A,便携式体细胞计数,نامشخص,~۲۰۱۸,نامشخص,قابل‌حمل,—
+16,CN116625914A,便携式生乳体细胞计数,نامشخص,~۲۰۲۳,درخواست منتشرشده,فلورسنت + گوشی,بالقوه
+17,US20240077480A1,Somatic cell counting device,نامشخص,~۲۰۲۲,درخواست منتشرشده,نوری,نامشخص
+18,US10964019B2,Machine-learning mastitis detection,نامشخص,~۲۰۱۸,بررسی‌شده,ML + تصویر,—
+19,WO2026083325A1,Real-time ML mastitis system,نامشخص,"US 63/708,353 (۲۰۲۴-۱۰-۱۷)",در انتظار,ML چندمنبعی,—
